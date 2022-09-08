@@ -1,0 +1,57 @@
+2022-09-08 === [restartedMain] === INFO  === com.zrkworld.cinema.CimenaApplication ==== Starting CimenaApplication on DESKTOP-8I4TNFO with PID 6332 (started by lzhlzhlzh in D:\IntelliJ IDEA\workPlace\大三上期末大作业汇总\软件工程综合实践\cinema-master)
+2022-09-08 === [restartedMain] === INFO  === com.zrkworld.cinema.CimenaApplication ==== No active profile set, falling back to default profiles: default
+2022-09-08 === [restartedMain] === INFO  === o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor ==== Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-09-08 === [restartedMain] === INFO  === o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor ==== For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-09-08 === [restartedMain] === INFO  === o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker ==== Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-08 === [restartedMain] === INFO  === o.s.boot.web.embedded.tomcat.TomcatWebServer ==== Tomcat initialized with port(s): 8081 (http)
+2022-09-08 === [restartedMain] === INFO  === org.apache.catalina.core.StandardService ==== Starting service [Tomcat]
+2022-09-08 === [restartedMain] === INFO  === org.apache.catalina.core.StandardEngine ==== Starting Servlet engine: [Apache Tomcat/9.0.30]
+2022-09-08 === [restartedMain] === INFO  === org.apache.catalina.core.AprLifecycleListener ==== Loaded APR based Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+2022-09-08 === [restartedMain] === INFO  === org.apache.catalina.core.AprLifecycleListener ==== APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2022-09-08 === [restartedMain] === INFO  === org.apache.catalina.core.AprLifecycleListener ==== APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2022-09-08 === [restartedMain] === INFO  === org.apache.catalina.core.AprLifecycleListener ==== OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+2022-09-08 === [restartedMain] === INFO  === org.apache.jasper.servlet.TldScanner ==== At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2022-09-08 === [restartedMain] === INFO  === o.a.c.c.C.[Tomcat].[localhost].[/cinema] ==== Initializing Spring embedded WebApplicationContext
+2022-09-08 === [restartedMain] === INFO  === org.springframework.web.context.ContextLoader ==== Root WebApplicationContext: initialization completed in 2306 ms
+2022-09-08 === [restartedMain] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor ==== Initializing ExecutorService 'applicationTaskExecutor'
+2022-09-08 === [restartedMain] === INFO  === o.s.b.d.autoconfigure.OptionalLiveReloadServer ==== LiveReload server is running on port 35729
+2022-09-08 === [restartedMain] === INFO  === s.d.s.web.plugins.DocumentationPluginsBootstrapper ==== Context refreshed
+2022-09-08 === [restartedMain] === INFO  === s.d.s.web.plugins.DocumentationPluginsBootstrapper ==== Found 1 custom documentation plugin(s)
+2022-09-08 === [restartedMain] === INFO  === s.d.spring.web.scanners.ApiListingReferenceScanner ==== Scanning for api listing references
+2022-09-08 === [restartedMain] === INFO  === o.s.boot.web.embedded.tomcat.TomcatWebServer ==== Tomcat started on port(s): 8081 (http) with context path '/cinema'
+2022-09-08 === [restartedMain] === INFO  === com.zrkworld.cinema.CimenaApplication ==== Started CimenaApplication in 5.166 seconds (JVM running for 6.009)
+2022-09-08 === [http-nio-8081-exec-1] === INFO  === o.a.c.c.C.[Tomcat].[localhost].[/cinema] ==== Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-09-08 === [http-nio-8081-exec-1] === INFO  === org.springframework.web.servlet.DispatcherServlet ==== Initializing Servlet 'dispatcherServlet'
+2022-09-08 === [http-nio-8081-exec-1] === INFO  === org.springframework.web.servlet.DispatcherServlet ==== Completed initialization in 14 ms
+2022-09-08 === [http-nio-8081-exec-1] === INFO  === com.zaxxer.hikari.HikariDataSource ==== HikariPool-1 - Starting...
+2022-09-08 === [http-nio-8081-exec-1] === INFO  === com.zaxxer.hikari.HikariDataSource ==== HikariPool-1 - Start completed.
+2022-09-08 === [restartedMain] === INFO  === com.zrkworld.cinema.CimenaApplication ==== Starting CimenaApplication on DESKTOP-8I4TNFO with PID 11988 (started by lzhlzhlzh in D:\vscode\VscodeStorehouse\案例学习\大三上期末大作业\软件工程综合实践\cinema-master)
+2022-09-08 === [restartedMain] === INFO  === com.zrkworld.cinema.CimenaApplication ==== No active profile set, falling back to default profiles: default
+2022-09-08 === [restartedMain] === INFO  === o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor ==== Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-09-08 === [restartedMain] === INFO  === o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor ==== For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-09-08 === [restartedMain] === INFO  === o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker ==== Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-09-08 === [restartedMain] === INFO  === o.s.boot.web.embedded.tomcat.TomcatWebServer ==== Tomcat initialized with port(s): 8081 (http)
+2022-09-08 === [restartedMain] === INFO  === org.apache.catalina.core.StandardService ==== Starting service [Tomcat]
+2022-09-08 === [restartedMain] === INFO  === org.apache.catalina.core.StandardEngine ==== Starting Servlet engine: [Apache Tomcat/9.0.30]
+2022-09-08 === [restartedMain] === INFO  === org.apache.catalina.core.AprLifecycleListener ==== Loaded APR based Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+2022-09-08 === [restartedMain] === INFO  === org.apache.catalina.core.AprLifecycleListener ==== APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2022-09-08 === [restartedMain] === INFO  === org.apache.catalina.core.AprLifecycleListener ==== APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2022-09-08 === [restartedMain] === INFO  === org.apache.catalina.core.AprLifecycleListener ==== OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+2022-09-08 === [restartedMain] === INFO  === org.apache.jasper.servlet.TldScanner ==== At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2022-09-08 === [restartedMain] === INFO  === o.a.c.c.C.[Tomcat].[localhost].[/cinema] ==== Initializing Spring embedded WebApplicationContext
+2022-09-08 === [restartedMain] === INFO  === org.springframework.web.context.ContextLoader ==== Root WebApplicationContext: initialization completed in 1956 ms
+2022-09-08 === [restartedMain] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor ==== Initializing ExecutorService 'applicationTaskExecutor'
+2022-09-08 === [restartedMain] === INFO  === o.s.b.d.autoconfigure.OptionalLiveReloadServer ==== LiveReload server is running on port 35729
+2022-09-08 === [restartedMain] === INFO  === s.d.s.web.plugins.DocumentationPluginsBootstrapper ==== Context refreshed
+2022-09-08 === [restartedMain] === INFO  === s.d.s.web.plugins.DocumentationPluginsBootstrapper ==== Found 1 custom documentation plugin(s)
+2022-09-08 === [restartedMain] === INFO  === s.d.spring.web.scanners.ApiListingReferenceScanner ==== Scanning for api listing references
+2022-09-08 === [restartedMain] === INFO  === o.s.boot.web.embedded.tomcat.TomcatWebServer ==== Tomcat started on port(s): 8081 (http) with context path '/cinema'
+2022-09-08 === [restartedMain] === INFO  === com.zrkworld.cinema.CimenaApplication ==== Started CimenaApplication in 4.467 seconds (JVM running for 5.86)
+2022-09-08 === [http-nio-8081-exec-1] === INFO  === o.a.c.c.C.[Tomcat].[localhost].[/cinema] ==== Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-09-08 === [http-nio-8081-exec-1] === INFO  === org.springframework.web.servlet.DispatcherServlet ==== Initializing Servlet 'dispatcherServlet'
+2022-09-08 === [http-nio-8081-exec-1] === INFO  === org.springframework.web.servlet.DispatcherServlet ==== Completed initialization in 9 ms
+2022-09-08 === [http-nio-8081-exec-2] === INFO  === com.zaxxer.hikari.HikariDataSource ==== HikariPool-1 - Starting...
+2022-09-08 === [http-nio-8081-exec-2] === INFO  === com.zaxxer.hikari.HikariDataSource ==== HikariPool-1 - Start completed.
+2022-09-08 === [SpringContextShutdownHook] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor ==== Shutting down ExecutorService 'applicationTaskExecutor'
+2022-09-08 === [SpringContextShutdownHook] === INFO  === com.zaxxer.hikari.HikariDataSource ==== HikariPool-1 - Shutdown initiated...
+2022-09-08 === [SpringContextShutdownHook] === INFO  === com.zaxxer.hikari.HikariDataSource ==== HikariPool-1 - Shutdown completed.

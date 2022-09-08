@@ -1,0 +1,23 @@
+{
+  "id": "2994676",
+  "name": "软件工程综合实践",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11580879",
+      "name": "拓展",
+      "font_class": "tuozhan",
+      "unicode": "e726",
+      "unicode_decimal": 59174
+    },
+    {
+      "icon_id": "15857773",
+      "name": "拓展",
+      "font_class": "tuozhan1",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}

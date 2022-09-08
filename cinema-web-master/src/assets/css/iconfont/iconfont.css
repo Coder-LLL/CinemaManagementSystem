@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2994676 */
+  src: url('iconfont.woff2?t=1639449164939') format('woff2'),
+       url('iconfont.woff?t=1639449164939') format('woff'),
+       url('iconfont.ttf?t=1639449164939') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-tuozhan:before {
+  content: "\e726";
+}
+
+.icon-tuozhan1:before {
+  content: "\e600";
+}
+
